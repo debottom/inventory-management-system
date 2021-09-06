@@ -5,7 +5,7 @@ An inventory management system is a combination of technology (hardware and soft
 # Features
 1.Here user can take huge product simultaneously
 
-2.maintain daily basis data and increase productivity by checking user intrest
+2.maintain daily basis data 
 
 3.Record is updating automatically after each sale
 
